@@ -1,0 +1,6 @@
+﻿任务：http://dx8.198174.com/qq2018.zip异常：未能找到文件“C:\Users\Administrator\AppData\Local\Temp\qq2018_1.tmp”。，堆栈：   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 DownTest.MultiDownload.Complete() 位置 C:\Users\Administrator\Desktop\DownTest\DownTest\MultiDown.cs:行号 342
+   在 DownTest.MultiDownload.Download(Object obj) 位置 C:\Users\Administrator\Desktop\DownTest\DownTest\MultiDown.cs:行号 311！

@@ -1,0 +1,2 @@
+﻿任务：http://dx8.198174.com/qq2018.zip异常：未能解析此远程名称: 'dx8.198174.com'，堆栈：   在 System.Net.HttpWebRequest.GetResponse()
+   在 DownTest.MultiDownload.Start() 位置 C:\Users\Administrator\Desktop\DownTest\DownTest\MultiDown.cs:行号 133！
